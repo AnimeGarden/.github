@@ -5,8 +5,6 @@
 [![AnimeGarden](https://img.shields.io/endpoint?url=https://pages.onekuma.cn/project/animegarden&label=AnimeGarden)](https://garden.breadio.wiki)
 [![CI](https://github.com/yjl9903/AnimeGarden/actions/workflows/ci.yml/badge.svg)](https://github.com/yjl9903/AnimeGarden/actions/workflows/ci.yml)
 
-[English](/README.en.md) | [简体中文](/README.md)
-
 [動漫花園](https://share.dmhy.org/) 第三方 [镜像站](https://garden.breadio.wiki) 以及 [动画 BT 资源聚合站](https://garden.breadio.wiki).
 
 + ☁️ 为开发者准备的开放 [API 接口](https://garden.breadio.wiki/docs/api)
@@ -17,5 +15,3 @@
 + 👷‍♂️ 支持与 [AutoBangumi](https://www.autobangumi.org/) 和 [AnimeSpace](https://github.com/yjl9903/AnimeSpace) 集成
 
 > 讨论群: [Telegram](https://t.me/+QLdRRqoDt1gxMWZl)
-
-![home](./assets/home.png)
